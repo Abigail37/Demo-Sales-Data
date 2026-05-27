@@ -123,6 +123,9 @@ Bundle lower-performing products with high-performing devices to improve overall
 * Customer Purchase Analysis
 * Product Performance Dashboard
 ---
+# Dashboard Overview
+![Dashboard Preview](dashboard.png)
+---
 # About the Dataset
 This project was built using a demo sales dataset for educational and portfolio purposes.
 
