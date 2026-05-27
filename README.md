@@ -25,13 +25,6 @@ The business needed a centralized dashboard to answer key questions such as:
 * Microsoft Power BI
 * Power Query
 * Excel
-
-### Data Scope
-* Multiple product categories
-* Regional sales performance
-* Customer-level transactions
-* Payment methods and order status analysis
-* Monthly sales trends
 ---
 # Key Dashboard Visuals
 ## KPI Cards
