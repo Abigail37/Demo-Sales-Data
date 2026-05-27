@@ -105,6 +105,7 @@ Phones and laptops significantly outperformed accessories and peripherals.
 
 **Recommendation:**
 Bundle lower-performing products with high-performing devices to improve overall sales volume.
+
 ---
 # Skills Demonstrated
 * Data cleaning and transformation using Power Query
