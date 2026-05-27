@@ -32,9 +32,7 @@ The business needed a centralized dashboard to answer key questions such as:
 * Customer-level transactions
 * Payment methods and order status analysis
 * Monthly sales trends
-
 ---
-
 # Key Dashboard Visuals
 ## KPI Cards
 The dashboard highlights:
@@ -114,9 +112,7 @@ Phones and laptops significantly outperformed accessories and peripherals.
 
 **Recommendation:**
 Bundle lower-performing products with high-performing devices to improve overall sales volume.
-
 ---
-
 # Skills Demonstrated
 * Data cleaning and transformation using Power Query
 * DAX calculations and KPI creation
@@ -125,24 +121,15 @@ Bundle lower-performing products with high-performing devices to improve overall
 * Customer and regional performance analysis
 * Data storytelling and business insight generation
 * Dashboard design and visualization best practices
-
 ---
-
 # Project Deliverables
 * Interactive Power BI Dashboard
 * Sales Performance Analysis
 * Regional Profitability Insights
 * Customer Purchase Analysis
 * Product Performance Dashboard
-
 ---
-
 # About the Dataset
 This project was built using a demo sales dataset for educational and portfolio purposes.
 
----
-
-# Author
-Abigail Ogunmola
-Computer Science Undergraduate | Data Analyst | Frontend Developer
 
